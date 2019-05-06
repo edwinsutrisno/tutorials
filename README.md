@@ -1,2 +1,2 @@
 # tutorials
-Repository for coding tutorials
+Repository for exercises in data science
